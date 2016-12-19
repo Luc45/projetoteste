@@ -193,7 +193,7 @@ $dirs = @array_values($dirs); $files = @array_values($files);
                     <a id="logo" href="http://www.hostinger.com.br/"><img src="https://hostinger.s3.amazonaws.com/r/1238bb7c196b067741224bc0a441acb7/f949990c073acdc929342d88090ba299.png" alt="Hospedagem" /></a>
                 </div>
                 <div class="content">
-                    <h1>Sua conta foi criada!</h1>
+                    <h1>Esta é a minha modificação</h1>
                     <p>O site <b><? print $host; ?></b> foi instalado com sucesso no servidor! Por favor apague o arquivo <b>default.php</b> da pasta <b>public_html</b> e fa&ccedil;a o upload de seus arquivos usando FTP ou o Gerenciador de Arquivos.</p>
                     <p>Esta &eacute; a lista de arquivos na sua pasta public_html:</p>
                     <div id="files">
